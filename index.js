@@ -5,7 +5,5 @@ function myname(){
     console.log("My name is" + name)
 }
 
-function mufunc(){
-    console.log("My first function.")
-}
+
 
