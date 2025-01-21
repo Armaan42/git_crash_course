@@ -6,4 +6,6 @@ function myname(){
 }
 
 
-
+function myfuc(){
+    console.log("Hi i am new function.")
+}
